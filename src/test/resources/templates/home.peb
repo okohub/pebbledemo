@@ -1,0 +1,4 @@
+{{ unit }}
+{% import 'macro' %}
+{{ infantry() }}
+{{ unit }}
